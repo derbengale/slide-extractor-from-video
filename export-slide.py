@@ -144,6 +144,11 @@ def checkfolder(dir_name = sys.argv[1], sensitivity=0.85):
 
     print("duplicate found: " + str(found_and_removed))
 
+def getcropboundaries():
+    return
+
+def crop(x0,y0,x1,y1):
+    return 
 
 def remove_stepbacks(dir_name = sys.argv[1]):    
     found_and_removed = 0
