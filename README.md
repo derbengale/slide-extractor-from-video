@@ -16,4 +16,10 @@ $ python export-slide.py <url>
 OR
 ```
 $ python export-slide.py <filename>
+
+To create a PDF file out ot images in a Folder:
+
+$ python create-pdf.py "folder" "Outputfile.pdf"
+
+
   ```
